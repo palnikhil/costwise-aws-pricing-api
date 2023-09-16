@@ -45,5 +45,9 @@ There are several filters:
 4. serviceCode
 5. region_code
 
+# Sample API request to Test
+1. https://q68hkeuim4.us-east-1.awsapprunner.com/db/get?limit=1000&region_code=ca-central-1&serviceCode=comprehend (GET)
+2. https://q68hkeuim4.us-east-1.awsapprunner.com/db/get?limit=1000&serviceCode=ContactCenterTelecomm (GET)
+
 # Scope of Work(Future)
 SNS Service to auto update the Prices in MySQL.
