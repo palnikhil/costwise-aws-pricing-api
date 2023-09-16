@@ -45,5 +45,5 @@ There are several filters:
 4. serviceCode
 5. region_code
 
-# Scope of Work(Futute)
+# Scope of Work(Future)
 SNS Service to auto update the Prices in MySQL.
